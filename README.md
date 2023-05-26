@@ -1,7 +1,7 @@
 # RRbot-State-Feedback-Control
 
 ## Aim
-The aim is to design a state feedback control law for the RRbot. 
+The aim is to design a state feedback control law for the RRbot and perform set-point tracking. 
 
 ## Design Procedure
 The control law is designed in MATLAB, and the parameters are tuned to achieve desirable state trajectories and control input trajectories. Once the results are satisfactory, further experiments are performed in Gazebo.
