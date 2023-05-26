@@ -1,7 +1,6 @@
-%
-% RBE502 - Spring 2023 | Programming Assignment 2
+% Robot Controls - State Feedback Control for RRbot Manipulator
 % Author: Krutarth Trivedi | ktrivedi@wpi.edu
-%
+
 clear; 
 clc; 
 close all;
